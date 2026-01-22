@@ -194,8 +194,14 @@ Frobenius norm
   <img src="https://github.com/user-attachments/assets/759c9487-c9ac-42e3-9b56-efc6fcf6bc21" width="45%" />
 </p>
 
+<br>
 
 # Future Work (In Progress) 
 
+<img width="1910" height="1018" alt="image" src="https://github.com/user-attachments/assets/f040850e-d831-4636-a493-76ce03bf4044" />
+
+<br>
+<br>
+<b>Future work includes developing an interactive GUI, symbolic SMT encodings of quantum gates, full global-phase handling, counterexample extraction, and scalable SAT-based verification methods, along with larger-scale systematic experiments, constraint-reduction techniques, and solver optimizations to better characterize the classical limits of satisfiability-based quantum circuit verification.</b>
 
 
